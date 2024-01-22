@@ -1,6 +1,7 @@
 # Sales Analytics Report
 
 **Project Objective:**
+
 **1.** Create a demographic report of _[Average Sales by State and Region](https://github.com/rasidatyekeen/PowerBI_Sales-Analytics-Report/blob/main/Average%20of%20Sales%20by%20state%20and%20Region.png)_
 
 **2.** Analyze a report on _[Profit based on State and Region](https://github.com/rasidatyekeen/PowerBI_Sales-Analytics-Report/blob/main/Profit%20by%20State%20and%20Region.png)_
